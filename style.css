@@ -23,9 +23,8 @@ body{
   justify-content: center;
   height:80vh;
   overflow:hidden;
-  background: url("https://github.com/mmerhi89/wheelofdrinksalternative/blob/main/images/background2.png?raw=true");
-  /*background: url("http://wallpapercave.com/wp/ZqCwNUM.jpg");*/
-  /*https://github.com/mmerhi89/wheelofdrinksalternative/blob/main/images/background.png?raw=true*/
+  background: url("https://github.com/mmerhi89/wheelofdrinksalternative/blob/main/images/background.png?raw=true");
+ 
 }
 
 .wheel {
